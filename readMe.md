@@ -1,6 +1,6 @@
 # Your Name | YOUR-STUDENT-ID
 
-# PDC-Sp24-[BSCS23190]-[Anas]
+# PDC-Sp24-BSCS23190-Anas
 ### Course: Parallel and Distributed Computing | StudySync Assignment
 
 ---
@@ -11,7 +11,7 @@
 
 ```bash
 git clone https://github.com/Anas123-svg/pdc_asm4
-cd PDC-Sp24-[BSCS23190]-[Anas]
+cd PDC-Sp24-BSCS23190-Anas
 ```
 
 ### Step 2 — Install dependencies
